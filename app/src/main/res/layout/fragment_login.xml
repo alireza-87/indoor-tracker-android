@@ -16,7 +16,7 @@
             android:layout_height="wrap_content"/>
         <EditText
             android:id="@+id/edtPass"
-            android:hint="@string/email"
+            android:hint="@string/pass"
             android:inputType="textPassword"
             android:layout_marginRight="64dp"
             android:layout_marginLeft="64dp"
